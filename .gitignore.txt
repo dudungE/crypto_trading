@@ -1,1 +1,1 @@
-*.txt
+/crypto_base/*.txt
